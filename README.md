@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rasit KIYAK</h1>
 <h3 align="center">Embedded HW&SW Enginner</h3>
 
-- 🔭 I’m currently working on [Batkon Battery Technologies Inc.](https://en.batkon.com/lich)
-
 - 🌱 I’m currently learning **Linux, IOT, Embedded Systems**
 
 - 👨‍💻 My website is [rkiyak.com](rkiyak.com)
