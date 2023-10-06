@@ -11,7 +11,9 @@
 
 ### About Me
 
-I am an **Embedded Hardware and Software Engineer** with a strong foundation in theoretical knowledge, bolstered by practical applications. Throughout my academic journey, I have honed my skills in various disciplines, culminating in a master's degree in **Power Electronics**.
+I am an **Embedded Hardware and Software Engineer** with a strong foundation in theoretical knowledge, bolstered by practical applications. Throughout my academic journey, I have honed my skills in various disciplines, specializing in Power Electronics.
+
+
 
 Over the years, I have actively contributed to hardware and software teams in diverse sectors such as:
 - 🌐 **Consumer Electronics**
